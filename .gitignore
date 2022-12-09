@@ -361,3 +361,4 @@ MigrationBackup/
 registries/
 gen/
 .history/
+.idea/
